@@ -5,7 +5,7 @@ RUN brew tap homebrew/science \
     && brew install \
             bcftools \
             beagle \
-            bedtools
+            bedtools \
             datamash \
             delly \
             fastqc \

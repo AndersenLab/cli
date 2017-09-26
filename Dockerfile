@@ -11,7 +11,6 @@ RUN brew tap homebrew/science \
             fastqc \
             muscle \
             nextflow \
-            primer3 \
             igv \
             jq \
             imagemagick \
